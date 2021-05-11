@@ -1,1 +1,1 @@
-# rider-gitignore
+# .gitignore for Jetbrains Rider 
